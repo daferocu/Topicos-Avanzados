@@ -5,15 +5,24 @@ Este repositorio esta dividido con la siguiente estructura que se encuentra en l
 
 ## Tabla de contenido
 
-* [Talleres](#descripción-de-la-solución) 
+* [Talleres](#talleres) 
 
 * [Requerimientos](#requerimientos)
   
-* [Proyecto Final](#screenshots) 
+* [Proyecto Final](#proyecto_final) 
 
-* [Arquitectura del Proyecto](#pruebas-automatizadas) 
+* [Arquitectura del Proyecto](#arquitectura_del_proyecto) 
 
 * [Autores](#autores)
+
+## Talleres
+Aquí se almacenan los documentos de los talleres.
+
+## Proyecto Final
+Aqui se almacenan los documentos del proyecto final.
+
+## Arquitectura del Proyecto
+Aqui se muestra la arquitectura del proyecto
 
 ## Requerimientos
 
