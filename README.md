@@ -39,7 +39,7 @@ Aqui se muestra la arquitectura del proyecto
  | Organización  | Nombre del Miembro                     | Correo Electrónico            |
 |---------------|----------------------------------------|-------------------------------|
 | PUJ-Bogotá    | Diana Katherin Ibáñez  | ibanezc.d@javeriana.edu.co    |
-| PUJ-Bogotá    | Daniel Felipe Rodríguez  | fa.martinez@javeriana.edu.co |
+| PUJ-Bogotá    | Daniel Felipe Rodríguez  | d.rodriguez@javeriana.edu.co |
 | PUJ-Bogotá    | Paola Andrea Castro   | pa.castro@javeriana.edu.co    |
 | PUJ-Bogotá    | Eduardo Correcha        | oe_correcha@javeriana.edu.co  |
 | PUJ-Bogotá    | Erika Cárdenas     | cardenasre@javeriana.edu.co  |
