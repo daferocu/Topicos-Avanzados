@@ -17,6 +17,7 @@ Este repositorio esta dividido con la siguiente estructura que se encuentra en l
 
 ## Talleres
 Aquí se almacenan los documentos de los talleres.
+* [Taller 1](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Talleres/Taller%201)
 
 ## Proyecto Final
 Aqui se almacenan los documentos del proyecto final.
