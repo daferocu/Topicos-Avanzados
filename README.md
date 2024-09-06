@@ -27,7 +27,18 @@ Aqui se almacenan los documentos del proyecto final.
 * [Proyecto 1](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Proyecto%201)
 
 ## Arquitectura del Proyecto
-Aqui se muestra la arquitectura del proyecto
+**Datalab**
+
+Proyecto/Proyecto 1
+
+Talleres/Taller 1/Taller1_UsedVehiclePricePredictionDrift.ipynb
+Talleres/Taller 2/
+Talleres/Taller 3/E5-NeuralNetworksKeras.ipynb
+Talleres/Taller 4/
+
+**Docs**
+
+Priyecto Frailejones
 
 ## Requerimientos
 
