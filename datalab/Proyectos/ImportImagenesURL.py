@@ -88,7 +88,8 @@ def import_imagenes():
     fraile2=np.asarray(fraile2)
 
     CT_x2=np.concatenate((fraile2,nofraile2))
-
+    
+    # Las imagenes en array # image, dimx, dimy, canales
     CT_x22 = CT_x2.copy()
 
     # Aplanamos las imagenes
