@@ -4,14 +4,15 @@ Class: Topicos avanzados de Analitíca <br>
 Code: 10202 <br>
 Professor: Sergio Alberto Mora Pardo <br>
 Members:
-    - Diana Katherin Ibáñez
-    - Daniel Felipe Rodríguez
-    - Paola Andrea Castro
-    - Oscar Correcha
-    - Erika Cárdenas
+- Diana Katherin Ibáñez 
+- Daniel Felipe Rodríguez
+- Paola Andrea Castro
+- Oscar Correcha
+- Erika Cárdenas
 
 Carpeta api se encuentra la api correspondiente al taller. <br>
-Carpeta resulados se encuentran los resultados de los modelos ajustados.
+Carpeta resulados se encuentran los resultados de los modelos ajustados.<br>
+Carpeta images se encuentran las imagenes que describen el proceso de ejecucion de la api.
 
 Notas para ejecutar la Api en FastAPi
 
