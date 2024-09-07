@@ -1,4 +1,7 @@
 # Topicos Avanzados
+
+![logo](images/log.png)
+
 >Este repositorio contiene la información desarrollada por el grupo de trabajo de la clase de Topicos Avanzados del segundo semestre del año 2024, clase de sábados de 7:00 am a 11:00 am.
 
 Este repositorio esta dividido con la siguiente estructura que se encuentra en la tabla de contenido.
