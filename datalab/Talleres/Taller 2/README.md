@@ -1,14 +1,17 @@
 # Taller 2 
 
 Class: Topicos avanzados de Analitíca <br>
-Code:  <br>
-Professor:  <br>
+Code: 10202 <br>
+Professor: Sergio Alberto Mora Pardo <br>
 Members:
     - Diana Katherin Ibáñez
     - Daniel Felipe Rodríguez
     - Paola Andrea Castro
     - Oscar Correcha
     - Erika Cárdenas
+
+Carpeta api se encuentra la api correspondiente al taller. <br>
+Carpeta resulados se encuentran los resultados de los modelos ajustados.
 
 Notas para ejecutar la Api en FastAPi
 
