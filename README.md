@@ -41,7 +41,7 @@ Proyecto/Proyecto 1
 
 **Docs**
 
-Priyecto Frailejones
+Proyecto Frailejones
 
 ## Requerimientos
 
