@@ -35,9 +35,9 @@ Aqui se almacenan los documentos del proyecto final.
 Proyecto/Proyecto 1
 
 * Talleres/Taller 1/Taller1_UsedVehiclePricePredictionDrift.ipynb
-* Talleres/Taller 2/
+* Talleres/Taller 2/Taller2_E1_UsedVehiclePricePredictionDeployment.ipynb
 * Talleres/Taller 3/E5-NeuralNetworksKeras.ipynb
-* Talleres/Taller 4/
+* Talleres/Taller 4/Taller_E4_Pretrained.ipynb
 
 **Docs**
 
