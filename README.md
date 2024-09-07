@@ -1,4 +1,7 @@
 # Topicos Avanzados
+
+![logo](images/log.png)
+
 >Este repositorio contiene la información desarrollada por el grupo de trabajo de la clase de Topicos Avanzados del segundo semestre del año 2024, clase de sábados de 7:00 am a 11:00 am.
 
 Este repositorio esta dividido con la siguiente estructura que se encuentra en la tabla de contenido.
@@ -32,13 +35,13 @@ Aqui se almacenan los documentos del proyecto final.
 Proyecto/Proyecto 1
 
 * Talleres/Taller 1/Taller1_UsedVehiclePricePredictionDrift.ipynb
-* Talleres/Taller 2/
+* Talleres/Taller 2/Taller2_E1_UsedVehiclePricePredictionDeployment.ipynb
 * Talleres/Taller 3/E5-NeuralNetworksKeras.ipynb
-* Talleres/Taller 4/
+* Talleres/Taller 4/Taller_E4_Pretrained.ipynb
 
 **Docs**
 
-Priyecto Frailejones
+Proyecto Frailejones
 
 ## Requerimientos
 
