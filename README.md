@@ -31,6 +31,7 @@ Aquí se almacenan los documentos de los talleres.
 ## Proyecto Final
 Aqui se almacenan los documentos del proyecto final.
 * [Proyecto 1](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Proyecto%201)
+* [Proyecto 2](https://github.com/daferocu/Topicos-Avanzados/tree/main/docs/Proyecto%202)
 
 ## Arquitectura del Proyecto
 **Datalab**
