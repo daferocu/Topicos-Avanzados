@@ -15,7 +15,7 @@ Este repositorio esta dividido con la siguiente estructura que se encuentra en l
 
 * [Requerimientos](#requerimientos)
   
-* [Proyecto Final](#proyecto_final) 
+* [Proyecto Final](#Proyecto_Final)
 
 * [Arquitectura del Proyecto](#arquitectura_del_proyecto) 
 
@@ -31,12 +31,13 @@ Aquí se almacenan los documentos de los talleres.
 ## Proyecto Final
 Aqui se almacenan los documentos del proyecto final.
 * [Proyecto 1](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Proyecto%201)
-* [Proyecto 2](https://github.com/daferocu/Topicos-Avanzados/tree/main/docs/Proyecto%202)
+* [Proyecto 2](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Proyecto%202)
 
 ## Arquitectura del Proyecto
 **Datalab**
 
 Proyecto/Proyecto 1
+Proyecto/Proyecto 2
 
 * Talleres/Taller 1/Taller1_UsedVehiclePricePredictionDrift.ipynb
 * Talleres/Taller 2/Taller2_E1_UsedVehiclePricePredictionDeployment.ipynb
@@ -45,7 +46,8 @@ Proyecto/Proyecto 1
 
 **Docs**
 
-Proyecto Frailejones
+* [Proyecto Frailejones](https://github.com/daferocu/Topicos-Avanzados/tree/main/docs/Proyecto%201)
+* [Proyecto Trama Películas](https://github.com/daferocu/Topicos-Avanzados/tree/main/docs/Proyecto%202)
 
 ## Requerimientos
 
