@@ -28,12 +28,12 @@ def index():
 # 4. Expose the prediction functionality, make a prediction from the passed
 #    JSON data and return the predicted Bank Note with the confidence
 
-class ModelOptions(str, Enum):
-    mod_1 = "Logistic Regression"
-    mod_2 = "MultinomialNB"
+# class ModelOptions(str, Enum):
+#     mod_1 = "Logistic Regression"
+#     mod_2 = "MultinomialNB"
 
 @app.post('/predict')
-def predict(data:Penguins, model: ModelOptions):
+def predict(data:Penguins):
     data = data.dict()
     texto = data['summary']
 
@@ -42,10 +42,7 @@ def predict(data:Penguins, model: ModelOptions):
     user_input_scaled = func_transform(user_input)
 
     # Seleccionar modelo
-    if model == ModelOptions.mod_1:
-        out_model = salida_pred(lr.predict(user_input_scaled))
-    elif model == ModelOptions.mod_2:
-        out_model = salida_pred(nb.predict(user_input_scaled)) 
+    out_model = salida_pred(nb.predict(user_input_scaled)) 
 
     return {
         out_model

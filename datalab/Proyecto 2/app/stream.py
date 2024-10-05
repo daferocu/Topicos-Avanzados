@@ -1,10 +1,9 @@
 import streamlit as st
 import requests
-import pandas as pd
+import ast
 
 # URL FastAPI
-# API_URL = "http://Fastapi:8000/predict"
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "http://127.0.0.1:8000/predict/"
 
 # Title
 st.title("Film prediction")
@@ -19,8 +18,25 @@ if st.button("Predict"):
     } 
 
     # testeo
-    st.write(input_data)
-    response = requests.post('http://127.0.0.1:8000/predict/', json=input_data)
-    st.write(response.json())
+    # st.write(input_data)
+    response = requests.post(API_URL, json=input_data)
+    # st.write(response.json())
     prediction = response.json()
-    st.write(f"Film prediction: {prediction}")
+
+    # st.write(f"Film prediction:")
+    prediction = prediction[0]
+    inicio = prediction.find('(') + 1
+    fin = prediction.find(')')
+    prediction = prediction[inicio:fin]
+    prediction = ast.literal_eval(prediction)
+    salidas = []
+    for elemento in prediction:
+
+        salidas.append(elemento) 
+        
+        # st.write(f"{elemento}")
+
+
+    st.write(f"Film prediction: {" ".join(salidas)}.")
+
+    # st.write(f"Film prediction: {prediction[0]}")
