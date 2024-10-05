@@ -5,11 +5,13 @@ pip install "fastapi[all]"
 
 pip install streamlit
 
+pip install unicorn
+
 # correr api y stream
 
 python -m uvicorn main:app --reload
 
-python -m uvicorn app:app --reload
+python -m uvicorn main2:app --reload
 
 python -m streamlit run stream.py
 
@@ -18,4 +20,3 @@ python -m streamlit run stream.py
 http://127.0.0.1:8000/docs
 
 http://192.168.0.13:8501/
-
