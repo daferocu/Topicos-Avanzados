@@ -2,9 +2,6 @@
 
 ![logo](images/log.png)
 
-
-Note: This branch is only for uploading some progress
-
 >Este repositorio contiene la información desarrollada por el grupo de trabajo de la clase de Topicos Avanzados del segundo semestre del año 2024, clase de sábados de 7:00 am a 11:00 am.
 
 Este repositorio esta dividido con la siguiente estructura que se encuentra en la tabla de contenido.
@@ -23,11 +20,9 @@ Este repositorio esta dividido con la siguiente estructura que se encuentra en l
 
 ## Talleres
 Aquí se almacenan los documentos de los talleres.
-* [Taller 1](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Talleres/Taller%201)
-* [Taller 2](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Talleres/Taller%202)
-* [Taller 3](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Talleres/Taller%203)
-* [Taller 4](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Talleres/Taller%204)
-
+* [Talleres 1](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Talleres)
+* [Talleres 2](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Talleres%202)
+  
 ## Proyecto Final
 Aqui se almacenan los documentos del proyecto final.
 * [Proyecto 1](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Proyecto%201)
@@ -36,13 +31,25 @@ Aqui se almacenan los documentos del proyecto final.
 ## Arquitectura del Proyecto
 **Datalab**
 
-Proyecto/Proyecto 1
-Proyecto/Proyecto 2
-
-* Talleres/Taller 1/Taller1_UsedVehiclePricePredictionDrift.ipynb
-* Talleres/Taller 2/Taller2_E1_UsedVehiclePricePredictionDeployment.ipynb
-* Talleres/Taller 3/E5-NeuralNetworksKeras.ipynb
-* Talleres/Taller 4/Taller_E4_Pretrained.ipynb
+* Proyecto 1: [Proyecto 1] Prección Frailejones
+* Proyecto 2: [Proyecto 2] Predición Genero Película
+--------------------------------------------------------------------------------------
+* Talleres 1: [Taller 1] Taller1_UsedVehiclePricePredictionDrift.ipynb
+* Talleres 1: [Taller 2] Taller2_E1_UsedVehiclePricePredictionDeployment.ipynb
+* Talleres 1: [Taller 3] E5-NeuralNetworksKeras.ipynb
+* Talleres 1: [Taller 4] Taller_E4_Pretrained.ipynb
+* Talleres 1: [Taller 5] SentimentPrediction.ipyn
+--------------------------------------------------------------------------------------
+* Talleres 2: [Taller 2] E1 - Sentiment Analysis
+* Talleres 2: [Taller 2] E2 - Homework Analysis
+* Talleres 2: [Taller 3] E3 - Song Embedding Visualization
+* Talleres 2: [Taller 4] E4 - Spam Classification
+* Talleres 2: [Taller 5] E5 - Neural Networks in Keras for NLP
+* Talleres 2: [Taller 6] E6 - Neural Networks in PyTorch for NLP
+* Talleres 2: [Taller 7] E7 - RNN, LSTM, GRU
+* Talleres 2: [Taller 8] E8 - Text Summary
+* Talleres 2: [Taller 9] E9 - Question Answering
+* Talleres 2: [Taller 10] E10 - Open AI
 
 **Docs**
 
