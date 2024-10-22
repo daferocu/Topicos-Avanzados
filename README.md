@@ -22,17 +22,20 @@ Este repositorio esta dividido con la siguiente estructura que se encuentra en l
 Aquí se almacenan los documentos de los talleres.
 * [Talleres 1](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Talleres)
 * [Talleres 2](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Talleres%202)
+* [Talleres 3](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Talleres%203)
   
 ## Proyecto Final
 Aqui se almacenan los documentos del proyecto final.
 * [Proyecto 1](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Proyecto%201)
 * [Proyecto 2](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Proyecto%202)
+* [Proyecto 3](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Proyecto%203)
 
 ## Arquitectura del Proyecto
 **Datalab**
 
 * Proyecto 1: [Proyecto 1] Prección Frailejones
 * Proyecto 2: [Proyecto 2] Predición Genero Película
+* Proyecto 3: [Proyecto 3] Graphs
 --------------------------------------------------------------------------------------
 * Talleres 1: [Taller 1] Taller1_UsedVehiclePricePredictionDrift.ipynb
 * Talleres 1: [Taller 2] Taller2_E1_UsedVehiclePricePredictionDeployment.ipynb
@@ -50,11 +53,15 @@ Aqui se almacenan los documentos del proyecto final.
 * Talleres 2: [Taller 8] E8 - Text Summary
 * Talleres 2: [Taller 9] E9 - Question Answering
 * Talleres 2: [Taller 10] E10 - Open AI
+--------------------------------------------------------------------------------------
+* Talleres 3: [Taller 10] E10 - Twitter Analysis
+* Talleres 3: [Taller 11] E11 - Patent Citation Network (Node2Vec with RecSys)
 
 **Docs**
 
 * [Proyecto Frailejones](https://github.com/daferocu/Topicos-Avanzados/tree/main/docs/Proyecto%201)
 * [Proyecto Trama Películas](https://github.com/daferocu/Topicos-Avanzados/tree/main/docs/Proyecto%202)
+* [Proyecto Grafos](https://github.com/daferocu/Topicos-Avanzados/tree/main/docs)
 
 ## Requerimientos
 
