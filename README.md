@@ -8,13 +8,13 @@ Este repositorio esta dividido con la siguiente estructura que se encuentra en l
 
 ## Tabla de contenido
 
-* [Talleres](#talleres) 
+* [Talleres](#talleres)
 
 * [Requerimientos](#requerimientos)
   
-* [Proyecto Final](#Proyecto_Final)
+* [Proyectos Finales](#Proyectos_Finales)
 
-* [Arquitectura del Proyecto](#arquitectura_del_proyecto) 
+* [Arquitectura de Proyectos](#arquitectura_de_proyectos)
 
 * [Autores](#autores)
 
@@ -24,7 +24,7 @@ Aquí se almacenan los documentos de los talleres.
 * [Talleres 2](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Talleres%202)
 * [Talleres 3](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Talleres%203)
   
-## Proyecto Final
+## Proyectos Finales
 Aqui se almacenan los documentos del proyecto final.
 * [Proyecto 1](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Proyecto%201)
 * [Proyecto 2](https://github.com/daferocu/Topicos-Avanzados/tree/main/datalab/Proyecto%202)
