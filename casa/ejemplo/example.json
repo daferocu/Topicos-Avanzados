@@ -1,0 +1,10 @@
+{
+    "MedInc": 1.1,
+    "HouseAge": 2.0,
+    "AveRooms": 3.0,
+    "AveBedrms": 4.0,
+    "Population": 5.0,
+    "AveOccup": 6.0,
+    "Latitude": -122.2,
+    "Longitude": 37.8
+}
